@@ -1,0 +1,8 @@
+/Users/klimsurov/Downloads/event-registration/src/main/java/com/example/event/EventRegistrationApplication.java
+/Users/klimsurov/Downloads/event-registration/src/main/java/com/example/event/controller/ParticipantController.java
+/Users/klimsurov/Downloads/event-registration/src/main/java/com/example/event/exception/EmailAlreadyExistsException.java
+/Users/klimsurov/Downloads/event-registration/src/main/java/com/example/event/exception/GlobalExceptionHandler.java
+/Users/klimsurov/Downloads/event-registration/src/main/java/com/example/event/model/Participant.java
+/Users/klimsurov/Downloads/event-registration/src/main/java/com/example/event/repository/ParticipantRepository.java
+/Users/klimsurov/Downloads/event-registration/src/main/java/com/example/event/service/ParticipantService.java
+/Users/klimsurov/Downloads/event-registration/src/main/java/com/example/event/service/ParticipantServiceImpl.java
